@@ -1,0 +1,2 @@
+var another = function() {
+}
